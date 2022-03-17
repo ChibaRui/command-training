@@ -12,5 +12,6 @@ public class Main {
 		bmi = weight / (height * height);
 
 		System.out.println("BMI:" + bmi);
+		System.out.println("BMI:" + bmi);
 	}
 }
